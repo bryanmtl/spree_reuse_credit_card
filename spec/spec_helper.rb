@@ -33,7 +33,7 @@ module AuthenticationHelpers
 end
 
 # Requires factories defined in spree_core
-require 'spree/core/testing_support/factories'
+require 'spree/testing_support/factories'
 # require 'spree/core/testing_support/env'
 #require 'spree/url_helpers'
 
